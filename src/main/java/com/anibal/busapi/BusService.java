@@ -6,21 +6,6 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
-//import org.springframework.stereotype.Service;
-//import java.util.List;
-
-//import org.springframework.beans.factory.annotation.Autowired;
-
-//@Service
-//public class BusService {
- //      @Autowired
-  //  private BusRepository busRepository;
-
-   // public List<Bus> getAllBuses() {
-   //    return busRepository.findAll();
-   // }
-
- //}
 @Service
 public class BusService {
 
